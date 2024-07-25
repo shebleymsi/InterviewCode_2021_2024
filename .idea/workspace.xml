@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfd8fc39-5ec7-4aff-b775-433249fb4165" name="Changes" comment="" />
+    <list default="true" id="bfd8fc39-5ec7-4aff-b775-433249fb4165" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/DeleteElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/DeleteElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/FindElementArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/FindElementArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/HashmapMultipleValueInAKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/HashmapMultipleValueInAKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/SearchByIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/SearchByIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practise/code.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practise/code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/practise/exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/practise/exam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/CountElementInStringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/CountElementInStringArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/MostRepeatedItemInTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/MostRepeatedItemInTextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/WriteCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/WriteCode.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2jkR06chWSyrzRKwlARSPGisVIe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +39,50 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/WINDOWS (C)_2024/IdeaProjects_2024/InterviewCode_2021_2024"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\InterviewCode_2021_2024" />
+      <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\InterviewCode_2021_2024\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArraySum">
+    <configuration name="ArrayReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ArrayReverse" />
+      <module name="InterviewCode_2021_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ArraySum" />
+      <module name="InterviewCode_2021_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraySum" />
+        <item itemvalue="Application.ArrayReverse" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

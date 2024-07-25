@@ -1,7 +1,5 @@
 package Array;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+
 public class SearchByIndex {
     public static void main(String[] args) {
 //        String[] str = {"jamal", "kamal", "habil", "tomal"};

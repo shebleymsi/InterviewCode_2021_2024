@@ -1,7 +1,6 @@
 package practise;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
+
 public class exam {
     public static void main(String[]args){
         String str ="abcdeab";

@@ -1,6 +1,5 @@
 package Array;
-import java.util.Arrays;
-import java.util.Scanner;
+
 public class DeleteElementInArray {
     public static void main(String[] args) {
         int[] arr = {1, 2, 5, 12, 7, 3, 8};
